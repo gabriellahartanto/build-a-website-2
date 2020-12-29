@@ -1,4 +1,5 @@
 import './App.css';
+import logo from './assets/logo192.png';
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
         >
           This is the weather-app starter code for Build a Website II
         </a>
+        <p>BRUH</p>
+        <img src={logo}/>
       </header>
     </div>
   );
