@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <div>
-        <h1> TODO </h1>
+        <h1> Brie's Weather App </h1>
       </div>
       <nav>
         <a href="/?city=Jakarta"> Jakarta </a>
